@@ -1,0 +1,51 @@
+nombre del jugador: KATY
+pregunta1: ¿Cuál es el río más largo del mundo?
+respuesta usuario 1: El Nilo
+respuesta real 1: EL Amazonas
+pregunta2: ¿Dónde está Transilvania?
+respuesta usuario 2: En Rumania
+respuesta real 2: En Rumania
+pregunta3: ¿Cuál es la luna más grande de Saturno?
+respuesta usuario 3: Mimas
+respuesta real 3: Titán
+pregunta4: ¿Cuántas notas musicales existen?
+respuesta usuario 4: 8
+respuesta real 3: 12
+pregunta5: ¿Quién descubrió la penicilina?
+respuesta usuario 5: William Olser
+respuesta real 5: Alexander Fleming
+------------------
+nombre del jugador: Alex
+pregunta1: ¿Cuál es el río más largo del mundo?
+respuesta usuario 1: El Amazonas
+respuesta real 1: EL Amazonas
+pregunta2: ¿Dónde está Transilvania?
+respuesta usuario 2: En Rumania
+respuesta real 2: En Rumania
+pregunta3: ¿Cuál es la luna más grande de Saturno?
+respuesta usuario 3: Titán
+respuesta real 3: Titán
+pregunta4: ¿Cuántas notas musicales existen?
+respuesta usuario 4: 12
+respuesta real 3: 12
+pregunta5: ¿Quién descubrió la penicilina?
+respuesta usuario 5: Alexander Fleming
+respuesta real 5: Alexander Fleming
+------------------
+nombre del jugador: Alexis
+pregunta1: ¿Cuál es el río más largo del mundo?
+respuesta usuario 1: El Amazonas
+respuesta real 1: EL Amazonas
+pregunta2: ¿Dónde está Transilvania?
+respuesta usuario 2: En Rumania
+respuesta real 2: En Rumania
+pregunta3: ¿Cuál es la luna más grande de Saturno?
+respuesta usuario 3: Mimas
+respuesta real 3: Titán
+pregunta4: ¿Cuántas notas musicales existen?
+respuesta usuario 4: 8
+respuesta real 3: 12
+pregunta5: ¿Quién descubrió la penicilina?
+respuesta usuario 5: William Olser
+respuesta real 5: Alexander Fleming
+------------------
